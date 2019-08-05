@@ -38,5 +38,6 @@
 
 *.xml
 dist
+mod
 
 result.xlsx
